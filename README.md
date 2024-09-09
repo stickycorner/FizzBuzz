@@ -360,7 +360,7 @@ submit your working code on MarkUs.
 
 And that's it for the first lab activity of the term!
 
-- [ ] Check with those around you to see how many commits you each made during the lab. You can view the log of commits on GitHub or
+- [X] Check with those around you to see how many commits you each made during the lab. You can view the log of commits on GitHub or
       use the `git log` command to view a summary of the commits to the repository.
 
 ## Coding homework for this week

@@ -1,6 +1,6 @@
 public class Reduce {
     public static void main(String[] args) {
-        Reduce.Reduction(100);
+        System.out.println(Reduction(100));
     }
 
     private static int Reduction(int n) {
@@ -16,7 +16,6 @@ public class Reduce {
             n = n / 2;
             count = 1 + Reduction(n);
         }
-        System.out.println(count);
         return count;
     }
 }
